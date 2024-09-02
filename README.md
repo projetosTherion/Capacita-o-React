@@ -1,1 +1,1 @@
-# Capacita-o-React
+# Capacitação-React
