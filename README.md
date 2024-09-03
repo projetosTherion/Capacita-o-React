@@ -6,13 +6,13 @@ git clone -b main https://github.com/projetosTherion/Capacitacao-React.git
 ```
 # Criar sua branch com "SeuNome+Diretoria"
 ```
-git checkout -b SeuNome-SuaDiretoria
+git checkout -b SeuNomeSuaDiretoria
 ```
 # Adicionar mudanças e subir para sua branch no git
 ```
 git add .
 git commit -m "Mensagem de commit"
-git push origin SeuNome-SuaDiretoria
+git push origin SeuNomeSuaDiretoria
 ```
 # Instalando node_modules
 ```
