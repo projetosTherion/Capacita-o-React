@@ -17,10 +17,10 @@ export const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
             >
               <h1 className="text-4xl font-bold lg:text-7xl">
-                Maria<span> Eduarda</span>
+                Henrique<span> Cois</span>
               </h1>
               <div className="mb-6 text-4xl lg:text-6xl font-semibold uppercase">
-                <span className="ml-4 text-white">desenvolvedora</span>{" "}
+                <span className="ml-4 text-white">desenvolvedor</span>{" "}
                 <p>
                   <TypeAnimation
                     className="text-accent"
@@ -39,7 +39,7 @@ export const Banner = () => {
               viewport={{ once: false, amount: 1 }}
             >
               Atualmente estudante de Engenharia de Computação na Universidade Federal do Paraná, campus Apucarana.
-              Sou estagiária da empresa ItLab e presidente fundadora da empresa junior Therion
+              Sou acessor de projetos da empresa junior Therion
             </motion.p>
 
             <motion.div
