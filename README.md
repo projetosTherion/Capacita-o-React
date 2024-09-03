@@ -2,7 +2,7 @@
 
 # Clonando repositorio 
 ```
-git clone -b main https://github.com/projetosTherion/Capacitacao-React.git
+git clone https://github.com/projetosTherion/Capacitacao-React.git
 ```
 # Criar sua branch com "SeuNome+Diretoria"
 ```
