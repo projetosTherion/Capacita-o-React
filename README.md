@@ -19,7 +19,7 @@ git push origin SeuNomeSuaDiretoria
 cd Capacitacao-React
 ```
 ```
-pnpm i
+npm i
 ```
 # Para rodar
 ```
