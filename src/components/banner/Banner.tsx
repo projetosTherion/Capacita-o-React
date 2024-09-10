@@ -1,4 +1,4 @@
-import Avatar from "@/assets/avatar.svg";
+import Avatar from "@/assets/RiquePerfil.png";
 import { FaGithub, FaFacebook, FaLinkedin } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
@@ -48,13 +48,13 @@ export const Banner = () => {
               initial="hidden"
               className="flex items-center gap-x-3 max-w-max mx-auto md:mx-0 mt-5 mb-5"
             >
-              <button className="btn btn-lg"><a href="mailto:mariaeduarda@therionej.com.br">Entre em contato</a></button>
+              <button className="btn btn-lg"><a href="mailto:henriqueGau@therionej.com.br">Entre em contato</a></button>
               <a className="text-gradient btn-link" href="https://beacons.ai/pedroso?fbclid=PAAaZUZ7vjAEeBh3Txrks_YpJLI2zXpxXcSzBWOEpDENTVvZGGspQeYiJ95NU_aem_Af2Pz9zH9XiZ63aEmQ7hq7Voq7ThuBcZB5VpTt2gSPLID_Je-w2cSIjlxAdYFQI7cdo" target="_blank">
                 Meu portifolio
               </a>
             </motion.div>
             <div className="flex gap-x-2 max-w-max mx-auto md:mx-0">
-              <a href="https://github.com/mariaeduardapedroso" target="_blank">
+              <a href="https://github.com/Rique11" target="_blank">
                 <FaGithub />
               </a>
               <a href="https://www.linkedin.com/in/maria-eduarda-pedroso-7671951b2/" target="_blank">

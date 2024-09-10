@@ -14,7 +14,7 @@ export const Work = () => {
           whileInView={"show"}
           initial="hidden"
           viewport={{ once: false, amount: 0.7 }}
-          className="flex w-full flex-col"
+          className="flex w-full flex-col" 
         >
           <div className="w-full grid grid-cols-1 lg:grid-cols-2 items-center justify-center gap-7">
             {/* text */}
@@ -28,23 +28,23 @@ export const Work = () => {
             {/* img */}
             <Workimg
               img={Img1}
-              nameProjeto={"Layout responsivo"}
-              title={"Apeperia"}
-              url={"https://mariaeduardapedroso.github.io/Alura-Layout-Responsivo/"}
+              nameProjeto={"Frontend com React"}
+              title={"Tela Spotify"}
+              url={"https://aprendendo-frontend-git-main-rique11s-projects.vercel.app/"}
             />
             {/* img */}
             <Workimg
               img={Img2}
-              nameProjeto={"Site HTML + CSS"}
-              title={"Alura Barbearia"}
-              url={"https://mariaeduardapedroso.github.io/Alura-HTML-E-CSS-final/"}
+              nameProjeto={"Automação no Navegador"}
+              title={"Automação de Serviços"}
+              url={"https://github.com/Rique11/Automacao-no-Navegador"}
             />
             {/* img */}
             <Workimg
               img={Img3}
-              nameProjeto={"Site com javaScript"}
-              title={"Calculadora de gasto de combustivel"}
-              url={"https://mariaeduardapedroso.github.io/calcular-litros/"}
+              nameProjeto={"Site com React + API no Backend"}
+              title={"Busca de conta no Github"}
+              url={"https://aprendendobackend-git-main-rique11s-projects.vercel.app/"}
             />
           </div>
         </motion.div>
