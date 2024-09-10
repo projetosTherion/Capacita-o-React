@@ -1,5 +1,5 @@
 import Avatar from "@/assets/perfil.png";
-import { FaGithub, FaFacebook, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import { fadeIn } from "@/variants";
@@ -57,11 +57,11 @@ export const Banner = () => {
               <a href="https://github.com/Rique11" target="_blank">
                 <FaGithub />
               </a>
-              <a href="https://www.linkedin.com/in/maria-eduarda-pedroso-7671951b2/" target="_blank">
+              <a href="https://www.linkedin.com/in/henrique-fajardo-59349328a/" target="_blank">
                 <FaLinkedin />
               </a>
-              <a href="https://www.facebook.com/mariaeduarda.pedroso.397" target="_blank">
-                <FaFacebook />
+              <a href="https://www.instagram.com/rique.cois/" target="_blank">
+                <FaInstagram />
               </a>
             </div>
           </div>
