@@ -49,7 +49,7 @@ export const About = () => {
 
               <div className="">
                 <div className="text-4xl text-gradient font-tertiary mb-2">
-                  {InView ? <CountUp start={0} end={8} duration={3} /> : null}
+                  {InView ? <CountUp start={0} end={6} duration={3} /> : null}
                   +
                 </div>
                 <div className="text-sm tracking-[2px]">

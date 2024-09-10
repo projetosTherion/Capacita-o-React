@@ -1,4 +1,4 @@
-import Avatar from "@/assets/RiquePerfil.png";
+import Avatar from "@/assets/perfil.png";
 import { FaGithub, FaFacebook, FaLinkedin } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
@@ -33,10 +33,10 @@ export const Banner = () => {
               </div>
             </motion.div>
             <motion.p
-              variants={fadeIn("up", 0.4)}
+              variants={fadeIn("down", 0.3)}
               whileInView={"show"}
               initial="hidden"
-              viewport={{ once: false, amount: 1 }}
+              viewport={{ once: false, amount: 0.7 }}
             >
               Atualmente estudante de Engenharia de Computação na Universidade Federal do Paraná, campus Apucarana.
               Sou acessor de projetos da empresa junior Therion
